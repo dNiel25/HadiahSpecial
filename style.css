@@ -1,0 +1,28 @@
+body{background-image: url("https://i.postimg.cc/dtnfMN6c/IMG-20211103-181126-886.jpg");background-repeat: no-repeat;background-size: 105% 105%;animation:none;transition:all .3s ease;}
+</style>
+<div id='konten'><div class="foto"><div class="image">
+<!-- Foto --><img id="ftKm" src="https://i.postimg.cc/0jyyvR8J/images.jpg" width="100px" height="100px" onClick="klikfoto();"/></div>
+<span style="font-weight:700;font-size: 13px" id="sp1"><div id="lope" style="display:inline-block;align-items:center;justify-content:center;">&#9829;</div></span>
+<div id="sp2" style="display:none;"><span style="font-weight:700;font-size: 13px" id="finish"></span></div>
+</div>
+<div id='scrollImage'>
+  <p>Hai&nbsp;<b id="kamu"></b>&nbsp;manis ><</p>
+  <p>Ciyeeeee</p>
+  <p>yang hari ini ultah</p>
+  <p>Panjang umur yaa</p>
+  <p>Makin tua aja nih wkwk</p>
+  <p>Candaa wlee<img style="margin-left:10px;" alt="Pentol" src="https://c.tenor.com/AlUwZp0ih_wAAAAi/pentol-quby.gif" height="70" /></p>
+  <p>Oh iya</p>
+  <p>Sehat selalu yaa</p>
+  <p>Gak boleh males-malesan lagi</p>
+  <p>Harus Makin rajin belajarnya</p>
+  <p>Harus jadi yang lebih baik</p>
+  <p><img style="margin-right:10px;" alt="Pentol" src="https://c.tenor.com/1Si3A6alsiEAAAAi/pentol-quby.gif" height="70" />
+  Okeyy?</p>
+  <p>Wish you all the best&nbsp;<span id="wrnRed">><</span></p>
+  <p>Sekian &#10084;&#65039;</p>
+  <p>Klik Foto di atas~<img style="margin-left:10px;" alt="Pentol" src="https://c.tenor.com/oQ_6wxtMrx0AAAAi/pentol-quby.gif" height="70" /></p>
+</div></div>
+
+<div id="contTom"><a class='button whatsapp' onClick='bukaWa();'><i class='icon whatsapp'></i>Kirim</a>
+</div>
